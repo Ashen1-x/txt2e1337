@@ -17,5 +17,5 @@ translated_text = "".join(
 print(words)
 print(translated_text)
 
-## if/else statement for if in nA switch with tA else print i
+
 
